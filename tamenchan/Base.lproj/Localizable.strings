@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  tamenchan
+
+  Created by 藤原 達郎 on 2018/01/10.
+  Copyright © 2018年 Tatsuo Fujiwara. All rights reserved.
+*/
+
+"appname" = "Tamen-chan";
+
+"ok" = "OK";
+"cancel" = "Cancel";
+
+"manzu" = "Characters";
+"pinzu" = "Circles";
+"souzu" = "Bamboos";
+
+"timeattack" = "Time Attack";
+"endlessmode" = "Endless Mode";
+"easy" = "Easy";
+"normal" = "Normal";
+"hard" = "Hard";
+
+"completepurchase" = "Purchased Addon";
+"donerestore" = "Purchased Addon";
+"completerestore" = "Restore Purchased Addon";
+"removedads" = "Ads no longer appear";
+"notallowedpurchase" = "Purchase in the application is not permitted. Check the setting.";
+"failpurchase" = "Failed to purchase. Check the setting.";
+"failrestore" = "Failed to restore. Check the setting.";
+
+"choicedifficulty" = "Please choose the difficulty";
+
+"correct" = "Correct!";
+"incorrect" = "Wrong...";
+"timeover" = "Time is up.";
+
+"correctbody" = "You got it! Earn %d pts.";
+"tamenchanbonus" = "Complex Bonus %d pts.";
+"timebonus" = "Time Bonus %d pts.";
+"incorrectbody" = "Right answer is [%@]";
+"youranswer" = "Your answer is [%@]";
+"timeoverbody" = "Answer is [%@]";
+"waiting" = "";
+"nowaiting" = "No waiting";
+
+"nextquestion" = "Next Question";
+"showresult" = "Show Result";
+
+"resultbody" = "Correct: %d ans.  Score: %d pts.";
+"pts" = " pts.";
+"answer" = " ans.";
+
+"rank1" = "1st";
+"rank2" = "2nd";
+"rank3" = "3rd";
+"rank4" = "4th";
+"rank5" = "5th";
+
+"clearhiscore" = "Clear High Score";
+"clearhiscoreconfirm" = "Clear all high scores. Is it OK?";
+
+"changehaitype" = "Change suit type.";
+

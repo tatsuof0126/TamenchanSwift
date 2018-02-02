@@ -1,0 +1,6 @@
+framework module Pods_tamenchan {
+  umbrella header "Pods-tamenchan-umbrella.h"
+
+  export *
+  module * { export * }
+}

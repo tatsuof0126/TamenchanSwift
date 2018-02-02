@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  tamenchan
+
+  Created by 藤原 達郎 on 2018/01/10.
+  Copyright © 2018年 Tatsuo Fujiwara. All rights reserved.
+*/
+
+"appname" = "ためんちゃん";
+
+"ok" = "OK";
+"cancel" = "キャンセル";
+
+"manzu" = "萬子";
+"pinzu" = "筒子";
+"souzu" = "索子";
+
+"timeattack" = "60秒モード";
+"endlessmode" = "エンドレスモード";
+"easy" = "初級";
+"normal" = "中級";
+"hard" = "上級";
+
+"completepurchase" = "購入しました";
+"donerestore" = "リストアしました";
+"completerestore" = "リストアが完了しました";
+"removedads" = "広告が表示されなくなりました";
+"notallowedpurchase" = "アプリ内での購入が許可されていません。設定を確認してください。";
+"failpurchase" = "購入に失敗しました。ネットワーク接続を確認して再度行ってください。";
+"failrestore" = "リストアに失敗しました。ネットワーク接続を確認して再度行ってください。";
+
+"choicedifficulty" = "難易度を選んでください";
+
+"correct" = "ためんちゃん！";
+"incorrect" = "だめじゃん．．．";
+"timeover" = "時間切れ．．．";
+
+"correctbody" = "正解です！%d点獲得";
+"tamenchanbonus" = "ためんちゃんボーナス ＋%d点";
+"timebonus" = "タイムボーナス ＋%d点";
+"incorrectbody" = "正しくは「%@」です";
+"youranswer" = "あなたの回答「%@」";
+"timeoverbody" = "正解は「%@」です";
+"waiting" = "待ち";
+"nowaiting" = "待ちなし";
+
+"nextquestion" = "次の問題へ";
+"showresult" = "結果を見る";
+
+"resultbody" = "結果は %d問正解 %d点 でした";
+"pts" = "点";
+"answer" = "問";
+
+"rank1" = "1位";
+"rank2" = "2位";
+"rank3" = "3位";
+"rank4" = "4位";
+"rank5" = "5位";
+
+"clearhiscore" = "ハイスコアをクリア";
+"clearhiscoreconfirm" = "すべてのハイスコアをクリアします。よろしいですか？";
+
+"changehaitype" = "牌の種類を変更";
+
+
+
