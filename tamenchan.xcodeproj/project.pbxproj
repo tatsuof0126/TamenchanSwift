@@ -120,6 +120,7 @@
 		0B0EB20B1FFD32B0004DBB70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0B0EB2111FFD33CB004DBB70 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		0B0EB2131FFD3916004DBB70 /* ConfigManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfigManager.swift; sourceTree = "<group>"; };
+		0B3BFEAF2024CBE300D8E9B8 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
 		0B5FD8F320065E1F00615ED3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
 		0B5FD8F420065E5700615ED3 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
 		0B5FD8F5200BA26300615ED3 /* HiScore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HiScore.swift; sourceTree = "<group>"; };
@@ -610,6 +611,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				0B0EB2041FFD32B0004DBB70 /* Base */,
+				0B3BFEAF2024CBE300D8E9B8 /* ja */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";

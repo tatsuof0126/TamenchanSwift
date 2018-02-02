@@ -1,0 +1,204 @@
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "2pw-gd-Del"; */
+"2pw-gd-Del.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "難易度変更"; ObjectID = "3yo-6w-kfY"; */
+"3yo-6w-kfY.normalTitle" = "難易度変更";
+
+/* Class = "UIButton"; normalTitle = "設定"; ObjectID = "4cz-lq-dVb"; */
+"4cz-lq-dVb.normalTitle" = "設定";
+
+/* Class = "UILabel"; text = "3位"; ObjectID = "5Hh-hT-xuE"; */
+"5Hh-hT-xuE.text" = "3位";
+
+/* Class = "UILabel"; text = "5位"; ObjectID = "5OU-6D-3aq"; */
+"5OU-6D-3aq.text" = "5位";
+
+/* Class = "UILabel"; text = "9999"; ObjectID = "5YS-Kj-gCg"; */
+"5YS-Kj-gCg.text" = "9999";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "662-DG-Qvi"; */
+"662-DG-Qvi.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "広告を削除"; ObjectID = "770-4h-GOD"; */
+"770-4h-GOD.normalTitle" = "広告を削除";
+
+/* Class = "UILabel"; text = "99問"; ObjectID = "7rW-Oc-B51"; */
+"7rW-Oc-B51.text" = "99問";
+
+/* Class = "UILabel"; text = "99問"; ObjectID = "9w0-ak-3xz"; */
+"9w0-ak-3xz.text" = "99問";
+
+/* Class = "UILabel"; text = "EASY"; ObjectID = "C0G-nu-dP9"; */
+"C0G-nu-dP9.text" = "EASY";
+
+/* Class = "UILabel"; text = "2位"; ObjectID = "Cml-Di-Qqg"; */
+"Cml-Di-Qqg.text" = "2位";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Cve-O5-j8w"; */
+"Cve-O5-j8w.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "GBw-s6-jt0"; */
+"GBw-s6-jt0.text" = "Type";
+
+/* Class = "UILabel"; text = "Manzu"; ObjectID = "H4m-eQ-6GE"; */
+"H4m-eQ-6GE.text" = "Manzu";
+
+/* Class = "UIButton"; normalTitle = "世界ランキング"; ObjectID = "HxE-rR-U2K"; */
+"HxE-rR-U2K.normalTitle" = "世界ランキング";
+
+/* Class = "UIButton"; normalTitle = "エンドレスモード"; ObjectID = "Imj-OG-0HW"; */
+"Imj-OG-0HW.normalTitle" = "エンドレスモード";
+
+/* Class = "UIButton"; normalTitle = "ハイスコアをクリア"; ObjectID = "JbS-ew-QOn"; */
+"JbS-ew-QOn.normalTitle" = "ハイスコアをクリア";
+
+/* Class = "UIButton"; normalTitle = "世界ランキングを表示"; ObjectID = "KIX-dh-lcL"; */
+"KIX-dh-lcL.normalTitle" = "世界ランキングを表示";
+
+/* Class = "UILabel"; text = "999問"; ObjectID = "KP3-CO-OPF"; */
+"KP3-CO-OPF.text" = "999問";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Lts-xh-KQi"; */
+"Lts-xh-KQi.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "ハイスコア"; ObjectID = "NPh-Vr-nLQ"; */
+"NPh-Vr-nLQ.text" = "ハイスコア";
+
+/* Class = "UILabel"; text = "2018/12/31"; ObjectID = "Nob-f3-Qfs"; */
+"Nob-f3-Qfs.text" = "2018/12/31";
+
+/* Class = "UILabel"; text = "99点"; ObjectID = "OpE-HG-8NA"; */
+"OpE-HG-8NA.text" = "99点";
+
+/* Class = "UIButton"; normalTitle = "Judge"; ObjectID = "PL6-Lw-Qlm"; */
+"PL6-Lw-Qlm.normalTitle" = "Judge";
+
+/* Class = "UILabel"; text = "エンドレスモード"; ObjectID = "Rpj-h8-eeB"; */
+"Rpj-h8-eeB.text" = "エンドレスモード";
+
+/* Class = "UILabel"; text = "Score :"; ObjectID = "Wt4-G3-2dg"; */
+"Wt4-G3-2dg.text" = "Score :";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XDO-cQ-1Mf"; */
+"XDO-cQ-1Mf.normalTitle" = "Button";
+
+/* Class = "UISegmentedControl"; XkH-lt-u9k.segmentTitles[0] = "初級"; ObjectID = "XkH-lt-u9k"; */
+"XkH-lt-u9k.segmentTitles[0]" = "初級";
+
+/* Class = "UISegmentedControl"; XkH-lt-u9k.segmentTitles[1] = "中級"; ObjectID = "XkH-lt-u9k"; */
+"XkH-lt-u9k.segmentTitles[1]" = "中級";
+
+/* Class = "UISegmentedControl"; XkH-lt-u9k.segmentTitles[2] = "上級"; ObjectID = "XkH-lt-u9k"; */
+"XkH-lt-u9k.segmentTitles[2]" = "上級";
+
+/* Class = "UILabel"; text = "999点"; ObjectID = "Xnu-19-LJ2"; */
+"Xnu-19-LJ2.text" = "999点";
+
+/* Class = "UINavigationItem"; title = "Game Config"; ObjectID = "XwL-hh-ohv"; */
+"XwL-hh-ohv.title" = "Game Config";
+
+/* Class = "UIButton"; normalTitle = "60秒モード"; ObjectID = "Xxs-Ob-Ref"; */
+"Xxs-Ob-Ref.normalTitle" = "60秒モード";
+
+/* Class = "UILabel"; text = "<モード>"; ObjectID = "Zdk-zE-1Ri"; */
+"Zdk-zE-1Ri.text" = "<モード>";
+
+/* Class = "UILabel"; text = "2018/12/31"; ObjectID = "bxD-ah-PbP"; */
+"bxD-ah-PbP.text" = "2018/12/31";
+
+/* Class = "UILabel"; text = "999点"; ObjectID = "c2I-Kk-Ofa"; */
+"c2I-Kk-Ofa.text" = "999点";
+
+/* Class = "UILabel"; text = "99問"; ObjectID = "cSB-kV-afX"; */
+"cSB-kV-afX.text" = "99問";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ceN-Ev-3bd"; */
+"ceN-Ev-3bd.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cgj-n4-pwA"; */
+"cgj-n4-pwA.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "9999"; ObjectID = "e4N-tB-yZV"; */
+"e4N-tB-yZV.text" = "9999";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fou-sq-gW3"; */
+"fou-sq-gW3.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "99点"; ObjectID = "gUH-ET-Fep"; */
+"gUH-ET-Fep.text" = "99点";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "h4i-oF-nlj"; */
+"h4i-oF-nlj.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "メニューへ"; ObjectID = "hSG-9k-fK9"; */
+"hSG-9k-fK9.normalTitle" = "メニューへ";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "hcR-aF-m9u"; */
+"hcR-aF-m9u.normalTitle" = "Change";
+
+/* Class = "UILabel"; text = "Question"; ObjectID = "iFO-xM-C5s"; */
+"iFO-xM-C5s.text" = "Question";
+
+/* Class = "UILabel"; text = "60秒モード"; ObjectID = "kgE-co-QDb"; */
+"kgE-co-QDb.text" = "60秒モード";
+
+/* Class = "UIButton"; normalTitle = "もう一度"; ObjectID = "m4r-V7-Fcn"; */
+"m4r-V7-Fcn.normalTitle" = "もう一度";
+
+/* Class = "UIButton"; normalTitle = "ハイスコア"; ObjectID = "mUP-TV-I07"; */
+"mUP-TV-I07.normalTitle" = "ハイスコア";
+
+/* Class = "UILabel"; text = "結果は99点（10問正解）でした"; ObjectID = "my9-hR-e1q"; */
+"my9-hR-e1q.text" = "結果は99点（10問正解）でした";
+
+/* Class = "UILabel"; text = "2018/12/31"; ObjectID = "oLq-eW-c0h"; */
+"oLq-eW-c0h.text" = "2018/12/31";
+
+/* Class = "UILabel"; text = "ためんちゃん ver2.0"; ObjectID = "pDd-Ht-k3c"; */
+"pDd-Ht-k3c.text" = "ためんちゃん ver2.0";
+
+/* Class = "UIButton"; normalTitle = "購入済みアドオンをリストア"; ObjectID = "pHN-jo-iMD"; */
+"pHN-jo-iMD.normalTitle" = "購入済みアドオンをリストア";
+
+/* Class = "UILabel"; text = "2018/12/31"; ObjectID = "pp2-xd-uQO"; */
+"pp2-xd-uQO.text" = "2018/12/31";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qH3-60-C5t"; */
+"qH3-60-C5t.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "99点"; ObjectID = "qUV-l3-lTN"; */
+"qUV-l3-lTN.text" = "99点";
+
+/* Class = "UILabel"; text = "60秒モード"; ObjectID = "s5u-OU-bLM"; */
+"s5u-OU-bLM.text" = "60秒モード";
+
+/* Class = "UILabel"; text = "Nanimachi?"; ObjectID = "t2P-Cn-YML"; */
+"t2P-Cn-YML.text" = "Nanimachi?";
+
+/* Class = "UILabel"; text = "4位"; ObjectID = "uQ1-iq-BvY"; */
+"uQ1-iq-BvY.text" = "4位";
+
+/* Class = "UIButton"; normalTitle = "世界ランキング"; ObjectID = "uuP-f8-6Ez"; */
+"uuP-f8-6Ez.normalTitle" = "世界ランキング";
+
+/* Class = "UILabel"; text = "ためんちゃん"; ObjectID = "vtI-GV-a4b"; */
+"vtI-GV-a4b.text" = "ためんちゃん";
+
+/* Class = "UILabel"; text = "1位"; ObjectID = "x6k-d2-SAo"; */
+"x6k-d2-SAo.text" = "1位";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "xQa-Fy-xiJ"; */
+"xQa-Fy-xiJ.title" = "Back";
+
+/* Class = "UINavigationItem"; title = "Hi Score"; ObjectID = "zVt-0z-d1J"; */
+"zVt-0z-d1J.title" = "Hi Score";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "zgV-1A-ZHn"; */
+"zgV-1A-ZHn.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "2018/12/31"; ObjectID = "zjJ-7I-LGn"; */
+"zjJ-7I-LGn.text" = "2018/12/31";
+
+/* Class = "UILabel"; text = "999問"; ObjectID = "zuW-fS-rXP"; */
+"zuW-fS-rXP.text" = "999問";
