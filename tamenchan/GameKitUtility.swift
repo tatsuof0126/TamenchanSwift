@@ -11,7 +11,7 @@ import GameKit
 
 class GameKitUtility: NSObject {
     
-    static var localPlayer:GKLocalPlayer = GKLocalPlayer();
+    static var localPlayer:GKLocalPlayer = GKLocalPlayer()
     
     static func login(target: UIViewController){
         self.localPlayer = GKLocalPlayer.localPlayer()

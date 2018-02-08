@@ -52,4 +52,17 @@ class ConfigManager: NSObject {
         let userDefaults = UserDefaults.standard
         userDefaults.set(haiType, forKey: "HAITYPE")
     }
+
+    static func getGameCount() -> Int {
+        let userDefaults = UserDefaults.standard
+        if (userDefaults.object(forKey: "GAMECOUNT") == nil) {
+            setGameCount(0)
+        }
+        return userDefaults.integer(forKey: "GAMECOUNT")
+    }
+    
+    static func setGameCount(_ gameCount: Int) {
+        let userDefaults = UserDefaults.standard
+        userDefaults.set(gameCount, forKey: "GAMECOUNT")
+    }
 }

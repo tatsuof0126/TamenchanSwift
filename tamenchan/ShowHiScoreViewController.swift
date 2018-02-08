@@ -35,6 +35,11 @@ class ShowHiScoreViewController: CommonAdsViewController, GKGameCenterController
         Utility.decorateBtn(toMenuBtn)
         Utility.decorateBtn(againBtn)
         
+        // ゲーム実行回数に１を加える
+        ConfigManager.setGameCount(ConfigManager.getGameCount()+1)
+        
+        // print("GameCount : \(ConfigManager.getGameCount())")
+        
         // resultLabel.text = "結果は \(correctCount)問正解 \(score)点 でした"
         resultLabel.text = String(format: NSLocalizedString("resultbody", comment: ""),
             correctCount, score)
@@ -57,7 +62,7 @@ class ShowHiScoreViewController: CommonAdsViewController, GKGameCenterController
             }
         }
         
-        print("rank : \(rank)")
+        // print("rank : \(rank)")
         var hiScoreEdited = false
         if rank != dummyRank {
             let newHiScore = HiScore()
@@ -73,7 +78,7 @@ class ShowHiScoreViewController: CommonAdsViewController, GKGameCenterController
         
         // 1位の記録がLeaderBoardに未登録なら送信
         if hiScoreList[0].registedDate == Date(timeIntervalSince1970: 0) {
-            print("LeaderBoard送信：\(hiScoreList[0].score)")
+            // print("LeaderBoard送信：\(hiScoreList[0].score)")
             let leaderBoardId = HiScore.getLeaderBoardId(mode, difficulty)
             GameKitUtility.reportScore(value: hiScoreList[0].score, leaderboardid: leaderBoardId)
             hiScoreList[0].registedDate = Date()
@@ -155,7 +160,12 @@ class ShowHiScoreViewController: CommonAdsViewController, GKGameCenterController
         DispatchQueue.main.asyncAfter(deadline: .now() + 0.7) {
             let delegate = UIApplication.shared.delegate as! AppDelegate
             if delegate.showInterstitialFlag {
-                delegate.showInterstitial(self)
+                let showed = delegate.showInterstitial(self)
+                
+                // インタースティシャル非表示でゲームを10回以上していたらレビュー依頼
+                if showed == false && ConfigManager.getGameCount() >= 10 {
+                    AppDelegate.requestReview()
+                }
             }
         }
     }

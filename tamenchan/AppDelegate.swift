@@ -38,13 +38,16 @@ class AppDelegate: UIResponder, UIApplicationDelegate, GADInterstitialDelegate {
         prepareInterstitial()
         
         // GameCenterにログイン
-        if let presentView = window?.rootViewController {
-            let targetViewController = presentView
-            GameKitUtility.login(target: targetViewController)
-        }
+        // if let presentView = window?.rootViewController {
+        //    let targetViewController = presentView
+        //    GameKitUtility.login(target: targetViewController)
+        // }
         
         if AppDelegate.MAKE_TEST_DATA == true {
             // MakeTestData
+            
+            // ConfigManager.setShowAds(false)
+
         }
         
         return true
@@ -85,23 +88,25 @@ class AppDelegate: UIResponder, UIApplicationDelegate, GADInterstitialDelegate {
         gadInterstitial.load(gadRequest)
     }
     
-    func showInterstitial(_ controller: UIViewController) {
+    func showInterstitial(_ controller: UIViewController) -> Bool {
         showInterstitialFlag = false
         
         if(ConfigManager.isShowAds() == false){
-            return
+            return false
         }
         
         let rand = (Int)(arc4random_uniform(100))
-        print("rand : \(rand) show -> \(rand < AppDelegate.SHOW_INTERSTITIAL_RATIO)")
+        // print("rand : \(rand) show -> \(rand < AppDelegate.SHOW_INTERSTITIAL_RATIO)")
         if rand >= AppDelegate.SHOW_INTERSTITIAL_RATIO {
-            return
+            return false
         }
         
         if gadInterstitial.isReady {
             gadInterstitial?.present(fromRootViewController: controller)
+            return true
         } else {
             prepareInterstitial()
+            return false
         }
     }
     
@@ -140,5 +145,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate, GADInterstitialDelegate {
         // print("interstitialWillLeaveApplication")
     }
     
+    static func requestReview() {
+        if #available(iOS 10.3, *) {
+            SKStoreReviewController.requestReview()
+        }
+    }
 }
 

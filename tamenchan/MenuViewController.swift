@@ -26,6 +26,12 @@ class MenuViewController: UIViewController {
             HiScore.initHiScore()
         }
         
+        // GameCenterにログイン
+        // if let presentView = self.rootViewController {
+        //    let targetViewController = presentView
+            GameKitUtility.login(target: self)
+        // }
+                
         Utility.decorateBtn(timeAttackBtn)
         Utility.decorateBtn(endlessModeBtn)
 

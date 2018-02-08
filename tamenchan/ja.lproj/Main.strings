@@ -1,6 +1,6 @@
 
 /* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "2pw-gd-Del"; */
-"2pw-gd-Del.title" = "Back";
+"2pw-gd-Del.title" = "戻る";
 
 /* Class = "UIButton"; normalTitle = "難易度変更"; ObjectID = "3yo-6w-kfY"; */
 "3yo-6w-kfY.normalTitle" = "難易度変更";
@@ -30,7 +30,7 @@
 "9w0-ak-3xz.text" = "99問";
 
 /* Class = "UILabel"; text = "EASY"; ObjectID = "C0G-nu-dP9"; */
-"C0G-nu-dP9.text" = "EASY";
+"C0G-nu-dP9.text" = "初級";
 
 /* Class = "UILabel"; text = "2位"; ObjectID = "Cml-Di-Qqg"; */
 "Cml-Di-Qqg.text" = "2位";
@@ -39,10 +39,10 @@
 "Cve-O5-j8w.normalTitle" = "Button";
 
 /* Class = "UILabel"; text = "Type"; ObjectID = "GBw-s6-jt0"; */
-"GBw-s6-jt0.text" = "Type";
+"GBw-s6-jt0.text" = "牌の種類";
 
 /* Class = "UILabel"; text = "Manzu"; ObjectID = "H4m-eQ-6GE"; */
-"H4m-eQ-6GE.text" = "Manzu";
+"H4m-eQ-6GE.text" = "萬子";
 
 /* Class = "UIButton"; normalTitle = "世界ランキング"; ObjectID = "HxE-rR-U2K"; */
 "HxE-rR-U2K.normalTitle" = "世界ランキング";
@@ -72,7 +72,7 @@
 "OpE-HG-8NA.text" = "99点";
 
 /* Class = "UIButton"; normalTitle = "Judge"; ObjectID = "PL6-Lw-Qlm"; */
-"PL6-Lw-Qlm.normalTitle" = "Judge";
+"PL6-Lw-Qlm.normalTitle" = "判定";
 
 /* Class = "UILabel"; text = "エンドレスモード"; ObjectID = "Rpj-h8-eeB"; */
 "Rpj-h8-eeB.text" = "エンドレスモード";
@@ -96,7 +96,7 @@
 "Xnu-19-LJ2.text" = "999点";
 
 /* Class = "UINavigationItem"; title = "Game Config"; ObjectID = "XwL-hh-ohv"; */
-"XwL-hh-ohv.title" = "Game Config";
+"XwL-hh-ohv.title" = "設定";
 
 /* Class = "UIButton"; normalTitle = "60秒モード"; ObjectID = "Xxs-Ob-Ref"; */
 "Xxs-Ob-Ref.normalTitle" = "60秒モード";
@@ -135,7 +135,7 @@
 "hSG-9k-fK9.normalTitle" = "メニューへ";
 
 /* Class = "UIButton"; normalTitle = "Change"; ObjectID = "hcR-aF-m9u"; */
-"hcR-aF-m9u.normalTitle" = "Change";
+"hcR-aF-m9u.normalTitle" = "変更";
 
 /* Class = "UILabel"; text = "Question"; ObjectID = "iFO-xM-C5s"; */
 "iFO-xM-C5s.text" = "Question";
@@ -174,7 +174,7 @@
 "s5u-OU-bLM.text" = "60秒モード";
 
 /* Class = "UILabel"; text = "Nanimachi?"; ObjectID = "t2P-Cn-YML"; */
-"t2P-Cn-YML.text" = "Nanimachi?";
+"t2P-Cn-YML.text" = "この手牌は何待ち？";
 
 /* Class = "UILabel"; text = "4位"; ObjectID = "uQ1-iq-BvY"; */
 "uQ1-iq-BvY.text" = "4位";
@@ -189,13 +189,13 @@
 "x6k-d2-SAo.text" = "1位";
 
 /* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "xQa-Fy-xiJ"; */
-"xQa-Fy-xiJ.title" = "Back";
+"xQa-Fy-xiJ.title" = "戻る";
 
 /* Class = "UINavigationItem"; title = "Hi Score"; ObjectID = "zVt-0z-d1J"; */
-"zVt-0z-d1J.title" = "Hi Score";
+"zVt-0z-d1J.title" = "ハイスコア";
 
 /* Class = "UIButton"; normalTitle = "Back"; ObjectID = "zgV-1A-ZHn"; */
-"zgV-1A-ZHn.normalTitle" = "Back";
+"zgV-1A-ZHn.normalTitle" = "戻る";
 
 /* Class = "UILabel"; text = "2018/12/31"; ObjectID = "zjJ-7I-LGn"; */
 "zjJ-7I-LGn.text" = "2018/12/31";

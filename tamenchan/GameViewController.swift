@@ -83,18 +83,17 @@ class GameViewController: UIViewController {
         }
         
         // デバッグ用テストコード
-        let correctAnswer = TenpaiChecker().checkMachihai(tehai)
-        var machiStr = ""
-        for i in 1 ... 9 {
-            if correctAnswer[i] == true {
-                machiStr += String(i)+" "
-            }
-        }
-        print("---")
-        tehai.printTehai()
-        print("待ち牌 : "+machiStr)
-        print("---")
-        
+        // let correctAnswer = TenpaiChecker().checkMachihai(tehai)
+        // var machiStr = ""
+        // for i in 1 ... 9 {
+        //     if correctAnswer[i] == true {
+        //         machiStr += String(i)+" "
+        //     }
+        // }
+        // print("---")
+        // tehai.printTehai()
+        // print("待ち牌 : "+machiStr)
+        // print("---")
         
         questionLabel.text = String(question)
         scoreLabel.text = String(score)

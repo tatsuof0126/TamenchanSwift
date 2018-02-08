@@ -17,9 +17,9 @@
 
 "timeattack" = "Time Attack";
 "endlessmode" = "Endless Mode";
-"easy" = "Easy";
-"normal" = "Normal";
-"hard" = "Hard";
+"easy" = "EASY";
+"normal" = "NORMAL";
+"hard" = "HARD";
 
 "completepurchase" = "Purchased Addon";
 "donerestore" = "Purchased Addon";
